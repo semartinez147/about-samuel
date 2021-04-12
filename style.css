@@ -1,0 +1,13 @@
+h1 {
+    color:#0f0f0f;
+    font-family: "Felix Titling", serif;
+}
+p {
+    font-family: Georgia, serif;
+    max-width: 50%;
+}
+
+img {
+    border: 2px solid black;
+    height: 300px;
+}
