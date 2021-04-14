@@ -1,3 +1,8 @@
+body {
+    /*added some padding to left side*/
+    padding-left: 15px;
+}
+
 h1 {
     color:#0f0f0f;
     font-family: "Felix Titling", serif;
@@ -10,14 +15,21 @@ h2 {
 
 p {
     font-family: Georgia, serif;
-    max-width: 50%;
+    max-width: 75%;
+    font-size: 35px;
 }
 
 img {
     border: 2px solid black;
     height: 300px;
+    /*added float to wrap images around text*/
+    float: left;
+
 }
 
 .saved {
     color: red;
+    font-size: 90px;
+    /*added an underline*/
+    text-decoration: underline;
 }
